@@ -1,0 +1,66 @@
+EXAMPLE TEXT
+EXAMPLE TEXT
+EXAMPLE TEXT
+EXAMPLE TEXT
+EXAMPLE TEXT
+EXAMPLE TEXT
+EXAMPLE TEXT
+
+
+PLEASE ENTER YOUR OWN TEXT HERE EVERY TIME YOU WANT TO GET NEW FLASHCARDS
+
+THANK YOU!!!
+
+
+### What is dynamics?
+
+It is the study of the effect of motion on the what motion of objects.
+
+### What is a force?
+
+A force causes an object change its state of motion or transfers energy to be stored or used for movement. 
+
+- It is measured in Newtons (N)
+- The force has a direction, hence a vector force.
+
+### Effect of forces
+
+- Unbalanced forces cause objects to accelerate and do work (transfer their energy) on an object.
+- Balanced forces cancel out. For example, if there are two magnitudes of the same energy from the opposite direction on one object, then it will not wove.
+
+# Types of forces
+
+- They are forces that can be classified into general groups:
+    - Resistance forces: Forces which resist motion and only act when an object is moving.
+    - Propulsion: forces which are produced by engines to push an object forward.
+- Gravity exerts a force on all objects constantly
+    - Weight of force
+    - W = mg
+    - W measured in Newtons
+    - m: mass (kg)
+    - g: gravity (m/s^2), which is approximately 9.8m/s^2 on Earth.
+    
+
+- Tips to keep in mind:
+    - Make the magnitude of the arrows relevant. For example, if the applied force line is greater than the friction, then it means that it is accelerating.
+    
+- All the weight must be balanced on all objects that don’t fall vertically.
+    - Norman force balances weight and is exerted by whichever object you are standing/resting on.
+    - Normal = weight.
+    
+- Force diagrams show the forces acting on an object.
+    - Object represented as a dot at the centre of mass.
+    - Arrows start at the dot and point in the direction in which the object would move.
+    - The size of the arrow show how large the force is.
+    - It is labelled with name of force and magnitude.
+
+# Netwon’s First Law
+
+- An object remains at rest or in constant motion unless acted on by a net external force.
+    - An object won’t change what it’s doing if all the forces are balanced.
+    - The law is often referred referred to as: “the law of interia”.
+
+Side effect: Inertia
+
+- The tendency of an object to resist changes in motion.
+- A larger unbalanced force is needed to change a heavier objects motion.
