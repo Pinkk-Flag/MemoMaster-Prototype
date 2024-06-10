@@ -3,8 +3,8 @@ import cohere
 # The Memomaster-Original Prototype Release by Dario Gerald
 
 # Variables
-API_KEY = '976IfwjgthQ17l0iRDYLLnkwr90YxVNdCSCxltzV'
-co = cohere.Client(API_KEY) # REMOVE LATER
+API_KEY = 'ENTER YOUR API KEY HERE!!!!'
+co = cohere.Client(API_KEY)
 
 # To Begin with, we have an introduction for the user:
 print("Welcome to The MemoMaster original prototype. It is simply a CLI version of what will be a bigger project in the future if time permits. To begin with enter your Cohere API in the `main.py` file, and place all of your information in `text.txt`. However, keep in mind, you can only do it once at a time (one note). For example, if you took notes on Biology and Economics, only put one of the notes at a time, otherwise, it may not work.")
